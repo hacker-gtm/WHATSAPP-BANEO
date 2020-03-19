@@ -1,5 +1,5 @@
 #----------------------------------------------------#
-# CREADOR  : HACKING PCH                             #
+# CREADOR  : HACKING GTM                            #
 # CANAL    : https://www.youtube.com/channel/UCSZvLf3CT6WAxsWd4om0QNg
 # SCRIPT   : WHATSAPP BANEO                          #
 #----------------------------------------------------#
